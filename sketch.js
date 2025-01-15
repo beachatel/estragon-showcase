@@ -67,7 +67,7 @@ function setup() {
     // divThin.style("border", "dotted 6px black")
     divThin.style("border-radius", "600px")
     divThin.style("color", "black")
-    divThin.style("font-size", "80px")
+    divThin.style("font-size", "50px")
     divThin.style("letter-spacing", "-3px")
     // divThin.style("line-height", "125px")
 
@@ -75,9 +75,8 @@ function setup() {
 
     divLight.style("text-align", "center");
     // divLight.style("border", "dotted 6px black")
-    divLight.style("border-radius", "100px")
     divLight.style("color", "black")
-    divLight.style("font-size", "100px")
+    divLight.style("font-size", "70px")
     divLight.style("letter-spacing", "-3px")
     // divLight.style("line-height", "125px")
 
@@ -86,35 +85,27 @@ function setup() {
     h1.style("border", "dotted 6px black")
     h1.style("border-radius", "100px")
     h1.style("color", "black")
-    h1.style("font-size", "200px")
+    h1.style("font-size", "120px")
     h1.style("letter-spacing", "-3px")
-    h1.style("line-height", "125px")
+    h1.style("line-height", "120px")
     h1.style("z-index", "10"); // Add z-index to bring it in front of other elements
 
     divMedium.style("font-family", "EstragonMedium");
 divMedium.style("text-align", "center");
-divMedium.style("border-radius", "100px");
 divMedium.style("color", "black");
-divMedium.style("font-size", "140px");
+divMedium.style("font-size", "90px");
 divMedium.style("letter-spacing", "-3px");
 
-
-    
-
     divBold.style("font-family", "EstragonBold");
-
     divBold.style("text-align", "center");
-    // divBold.style("border", "dotted 6px black")
-    divBold.style("border-radius", "10px")
     divBold.style("color", "black")
-    divBold.style("font-size", "140px")
+    divBold.style("font-size", "110px")
     divBold.style("letter-spacing", "-3px")
 
     divHeavy.style("font-family", "EstragonHeavy");
     divHeavy.style("text-align", "center");
-    divHeavy.style("border-radius", "100px")
     divHeavy.style("color", "black")
-    divHeavy.style("font-size", "100px")
+    divHeavy.style("font-size", "130px")
     divHeavy.style("letter-spacing", "-3px")
 
 
